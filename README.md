@@ -1,5 +1,6 @@
 ## Hi there 👋
-odeio o alura 
+odeio o alura, cmsp, khan academy e cia
+
 <!--
 **eliasmig/eliasmig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
